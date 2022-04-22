@@ -1,0 +1,50 @@
+body {
+    background-color: #384D59;
+    color: #082040;
+}
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.game {
+    display: flex;
+    flex-direction: column;
+    margin: auto 20px;
+    background-color: #0F2859;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.game-title {
+    padding: 0 20px;
+}
+
+.profile {
+    padding: 0 20px;
+    background-image: url('https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_dssquid_base_cosmic_tier3.png');
+}
+
+.rank {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #7787A6;
+    padding: 0 20px;
+
+}
+
+.summoner-name {
+    color: #80F2E7;
+}
+
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #80F2E7;
+}
+
+h2 {
+    color: #80F2E7;
+}
